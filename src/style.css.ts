@@ -28,6 +28,7 @@ const banner = style({
   padding: '0 1rem',
   alignItems: 'center',
   color: '#fff',
+  justifyContent: 'space-between',
 });
 
 const bannerText = style({
